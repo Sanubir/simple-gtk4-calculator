@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=simple-gtk4-calculator
+Exec=simple-gtk4-calculator
+Icon=org.gnome.Example
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
